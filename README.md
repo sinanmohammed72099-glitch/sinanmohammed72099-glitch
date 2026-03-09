@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🗑 Municipal Waste Management Cost Prediction (Machine Learning)
+### 🗑 Municipal Waste Management Cost Prediction (EDA)
 
 - Developed a **predictive model** to estimate waste management costs.
 - Analyzed **historical waste, population, and operational data**.
