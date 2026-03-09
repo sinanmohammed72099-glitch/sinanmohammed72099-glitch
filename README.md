@@ -135,7 +135,7 @@ If you're interested in **Data Analytics, Python, SQL, Excel, or Power BI**, let
 # 📬 Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahammed-riyan-415224386/">
+  <a href="https://www.linkedin.com/in/mohammed-sinan-49574b3aa/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
