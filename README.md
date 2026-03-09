@@ -139,12 +139,12 @@ If you're interested in **Data Analytics, Python, SQL, Excel, or Power BI**, let
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/riyan-cyber333">
+  <a href="https://github.com/riyan-cyber333>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-- 📧 Email: **sinanmohammed@gmail.com**  
+- 📧 Email: **sinanmohammed72099@gmail.com**  
 - 📞 +91-9744433351  
 
 ⭐ *Turning Data into Insights and Building Data-Driven Solutions*
