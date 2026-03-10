@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Mohammed SINAN P</h1>
+<h1 align="center">Hi 👋, I'm MOHAMMED SINAN P</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Data+Visualization+Enthusiast;Turning+Data+into+Insights;Building+Data+Driven+Solutions" />
